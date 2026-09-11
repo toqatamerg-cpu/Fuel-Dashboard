@@ -1,0 +1,309 @@
+station_id,transaction_date,station_type,region,fuel_type,litres_sold,transaction_value,payment_method,theft_flag,prevention_strategy,staff_present,incident_reported,resolution_status
+ST1000,3/24/2014,Staffed,Christchurch,Diesel,75,214.26,Post-pay,0,ANPR,1,Yes,Pending
+ST1001,3/29/2013,Unmanned,Christchurch,Diesel,61,186.59,Post-pay,0,Pre-pay Policy,1,No,Unresolved
+ST1002,3/23/2015,Staffed,Auckland,95,25,71.9,Post-pay,0,CCTV,0,No,Recovered
+ST1003,7/13/2015,Staffed,Wellington,95,61,178.66,Post-pay,0,ANPR,1,Yes,Recovered
+ST1004,11/17/2016,Unmanned,Christchurch,91,33,94.27,Post-pay,0,None,1,Yes,Unresolved
+ST1005,7/17/2017,Unmanned,Dunedin,91,41,114.56,Pre-pay,0,Pre-pay Policy,1,Yes,Pending
+ST1006,12-07-18,Staffed,Wellington,91,46,127.97,Pre-pay,0,ANPR,0,No,Pending
+ST1007,3/19/2019,Self-service,Hamilton,Diesel,74,225.35,Pre-pay,0,None,1,Yes,Unresolved
+ST1008,7/22/2011,Staffed,Christchurch,95,75,208.38,Post-pay,0,CCTV,0,Yes,Pending
+ST1009,11/22/2011,Staffed,Christchurch,Diesel,38,105.91,Pay-at-pump,1,Pre-pay Policy,1,Yes,Recovered
+ST1010,11/25/2008,Staffed,Auckland,95,46,131.36,Pre-pay,0,None,1,Yes,Pending
+ST1011,7/23/2012,Staffed,Hamilton,Diesel,57,160.72,Post-pay,0,Pre-pay Policy,0,Yes,Pending
+ST1012,11/29/2012,Unmanned,Christchurch,95,45,136.87,Pay-at-pump,0,ANPR,0,No,Unresolved
+ST1013,7/22/2013,Staffed,Dunedin,Diesel,36,101.35,Pre-pay,0,None,0,Yes,Unresolved
+ST1014,7/18/2014,Self-service,Dunedin,Diesel,47,131.9,Post-pay,1,Pre-pay Policy,0,No,Unresolved
+ST1015,11/24/2014,Unmanned,Auckland,91,54,156.39,Post-pay,1,None,1,Yes,Pending
+ST1016,11/18/2015,Self-service,Auckland,Diesel,37,101.12,Pre-pay,0,CCTV,0,No,Recovered
+ST1017,3/27/2012,Self-service,Auckland,91,56,158.13,Pre-pay,0,ANPR,0,Yes,Pending
+ST1018,3/30/2011,Self-service,Wellington,95,26,72.27,Pay-at-pump,1,ANPR,1,Yes,Recovered
+ST1019,02-12-13,Self-service,Wellington,95,38,115.34,Post-pay,0,None,1,No,Recovered
+ST1020,7/22/2010,Unmanned,Wellington,91,53,162.02,Pre-pay,0,None,0,Yes,Pending
+ST1021,11/24/2010,Unmanned,Wellington,Diesel,24,73.35,Post-pay,0,Pre-pay Policy,1,Yes,Unresolved
+ST1022,10/17/2005,Self-service,Auckland,Diesel,37,104.01,Pre-pay,0,CCTV,0,Yes,Unresolved
+ST1023,2/24/2006,Self-service,Dunedin,95,40,121.43,Post-pay,0,ANPR,0,Yes,Recovered
+ST1024,6/23/2006,Unmanned,Christchurch,95,21,64.97,Post-pay,1,Pre-pay Policy,0,Yes,Recovered
+ST1025,10/18/2006,Unmanned,Wellington,95,70,197.24,Pre-pay,0,None,0,No,Unresolved
+ST1026,6/27/2007,Unmanned,Wellington,91,55,170.42,Post-pay,0,Pre-pay Policy,0,No,Pending
+ST1027,10/25/2007,Staffed,Wellington,95,35,99.8,Post-pay,0,Pre-pay Policy,1,Yes,Recovered
+ST1028,2/26/2007,Staffed,Hamilton,Diesel,57,162.32,Pre-pay,0,None,0,Yes,Unresolved
+ST1029,7/28/2008,Staffed,Dunedin,95,29,88.99,Pre-pay,0,CCTV,0,Yes,Unresolved
+ST1030,01-04-09,Self-service,Wellington,91,55,149.46,Pay-at-pump,0,Pre-pay Policy,1,No,Unresolved
+ST1031,7/27/2009,Staffed,Dunedin,95,44,125.77,Pay-at-pump,1,None,0,No,Unresolved
+ST1032,11/24/2009,Self-service,Christchurch,91,51,151.63,Post-pay,0,ANPR,1,Yes,Recovered
+ST1033,3/29/2010,Self-service,Dunedin,Diesel,42,124.64,Pre-pay,0,Pre-pay Policy,0,Yes,Pending
+ST1034,01-04-08,Staffed,Wellington,Diesel,40,115.33,Pay-at-pump,1,ANPR,1,Yes,Unresolved
+ST1035,09-02-10,Self-service,Dunedin,91,75,204.36,Post-pay,0,Pre-pay Policy,0,Yes,Pending
+ST1036,02-02-12,Staffed,Auckland,Diesel,74,218.14,Pre-pay,0,None,1,No,Pending
+ST1037,07-10-11,Staffed,Hamilton,Diesel,47,132.32,Pre-pay,0,None,1,No,Pending
+ST1038,09-06-11,Unmanned,Auckland,91,44,122.96,Pre-pay,0,Pre-pay Policy,0,Yes,Recovered
+ST1039,09-02-11,Staffed,Auckland,91,38,113.27,Post-pay,0,None,1,Yes,Pending
+ST1040,07-06-10,Unmanned,Wellington,Diesel,45,123.91,Pre-pay,0,Pre-pay Policy,0,No,Pending
+ST1041,05-03-09,Staffed,Dunedin,Diesel,43,121.77,Pay-at-pump,0,Pre-pay Policy,1,Yes,Unresolved
+ST1042,10/25/2006,Staffed,Christchurch,95,37,109.33,Pay-at-pump,0,ANPR,0,Yes,Pending
+ST1043,02-07-08,Unmanned,Wellington,91,42,117.5,Pay-at-pump,0,None,0,Yes,Pending
+ST1044,04-03-08,Unmanned,Hamilton,Diesel,28,75.76,Pay-at-pump,0,CCTV,0,Yes,Unresolved
+ST1045,10/26/2007,Staffed,Auckland,91,43,127.17,Pre-pay,0,CCTV,0,Yes,Pending
+ST1046,6/28/2007,Self-service,Auckland,91,65,200.59,Pre-pay,0,Pre-pay Policy,0,No,Unresolved
+ST1047,2/27/2007,Unmanned,Wellington,Diesel,44,128.55,Pre-pay,0,CCTV,1,No,Unresolved
+ST1048,01-06-12,Self-service,Hamilton,91,66,191.22,Pay-at-pump,0,ANPR,0,Yes,Recovered
+ST1049,6/28/2006,Self-service,Auckland,Diesel,79,232.74,Pre-pay,0,CCTV,1,Yes,Recovered
+ST1050,10/29/2008,Self-service,Auckland,95,63,187.46,Pre-pay,0,None,0,Yes,Unresolved
+ST1051,02-10-12,Unmanned,Christchurch,95,31,83.79,Pay-at-pump,0,None,1,Yes,Recovered
+ST1052,03-02-16,Self-service,Auckland,95,78,218.97,Pay-at-pump,0,None,0,No,Unresolved
+ST1053,1/30/2014,Unmanned,Hamilton,95,32,86.54,Post-pay,0,CCTV,0,Yes,Recovered
+ST1054,03-10-17,Self-service,Hamilton,91,58,159.48,Pre-pay,0,ANPR,0,Yes,Recovered
+ST1055,01-03-06,Staffed,Christchurch,91,46,140.33,Post-pay,1,Pre-pay Policy,1,Yes,Unresolved
+ST1056,03-11-09,Staffed,Auckland,95,66,194.17,Post-pay,0,None,1,Yes,Recovered
+ST1057,05-10-10,Unmanned,Wellington,Diesel,27,76.1,Pre-pay,0,Pre-pay Policy,0,No,Pending
+ST1058,01-02-18,Staffed,Christchurch,91,59,164.48,Post-pay,0,Pre-pay Policy,1,Yes,Recovered
+ST1059,04-02-19,Staffed,Hamilton,Diesel,21,62.91,Pre-pay,0,ANPR,1,Yes,Pending
+ST1060,5/25/2018,Self-service,Wellington,95,21,62.17,Pay-at-pump,0,None,0,Yes,Recovered
+ST1061,5/26/2017,Unmanned,Auckland,95,56,152.14,Pay-at-pump,0,Pre-pay Policy,0,Yes,Pending
+ST1062,01-02-17,Self-service,Dunedin,91,25,68.72,Post-pay,0,None,0,No,Unresolved
+ST1063,9/29/2016,Self-service,Dunedin,95,32,88.93,Pre-pay,0,CCTV,0,Yes,Recovered
+ST1064,5/25/2016,Self-service,Auckland,95,31,87.88,Pre-pay,0,Pre-pay Policy,0,No,Unresolved
+ST1065,9/28/2015,Self-service,Dunedin,Diesel,23,62.81,Pre-pay,1,Pre-pay Policy,0,Yes,Pending
+ST1066,5/28/2015,Self-service,Hamilton,Diesel,58,173.24,Pre-pay,0,Pre-pay Policy,0,Yes,Recovered
+ST1067,04-02-15,Self-service,Auckland,91,71,218.26,Pre-pay,0,CCTV,0,Yes,Recovered
+ST1068,9/25/2014,Self-service,Auckland,Diesel,43,123.53,Pay-at-pump,0,ANPR,1,Yes,Unresolved
+ST1069,01-10-13,Unmanned,Auckland,Diesel,24,69.75,Post-pay,0,ANPR,0,Yes,Unresolved
+ST1070,10/19/2005,Staffed,Dunedin,91,41,118.87,Post-pay,0,ANPR,1,No,Pending
+ST1071,5/31/2013,Self-service,Dunedin,Diesel,42,125.75,Post-pay,0,Pre-pay Policy,0,Yes,Unresolved
+ST1072,2/15/2010,Self-service,Dunedin,91,61,184.24,Pay-at-pump,0,Pre-pay Policy,1,No,Recovered
+ST1073,03-06-15,Self-service,Hamilton,95,35,100.85,Pay-at-pump,0,Pre-pay Policy,0,Yes,Recovered
+ST1074,2/13/2009,Self-service,Wellington,Diesel,25,72.57,Post-pay,0,Pre-pay Policy,0,Yes,Unresolved
+ST1075,05-02-19,Self-service,Dunedin,95,49,132.45,Post-pay,0,CCTV,0,Yes,Unresolved
+ST1076,5/30/2017,Self-service,Hamilton,95,69,198.74,Pay-at-pump,0,ANPR,0,Yes,Pending
+ST1077,05-10-15,Staffed,Dunedin,91,56,173.35,Post-pay,0,None,0,Yes,Unresolved
+ST1078,10-10-14,Staffed,Wellington,95,55,154.96,Post-pay,0,None,0,Yes,Pending
+ST1079,05-10-17,Self-service,Christchurch,95,33,92.91,Pre-pay,0,None,0,No,Unresolved
+ST1080,10-02-12,Staffed,Auckland,95,55,156.93,Pay-at-pump,0,CCTV,0,No,Pending
+ST1081,10/14/2009,Unmanned,Wellington,95,63,179.6,Pay-at-pump,0,Pre-pay Policy,0,No,Pending
+ST1082,10/14/2008,Self-service,Christchurch,Diesel,45,138.07,Pay-at-pump,0,ANPR,0,Yes,Unresolved
+ST1083,6/16/2008,Unmanned,Christchurch,Diesel,59,182.26,Pay-at-pump,0,CCTV,0,Yes,Unresolved
+ST1084,2/15/2008,Unmanned,Hamilton,91,34,103.93,Pre-pay,1,CCTV,0,Yes,Unresolved
+ST1085,10/16/2007,Self-service,Christchurch,Diesel,39,119.82,Post-pay,0,None,1,Yes,Pending
+ST1086,6/18/2007,Staffed,Auckland,91,64,184.11,Post-pay,0,None,0,Yes,Recovered
+ST1087,11-02-11,Unmanned,Dunedin,91,28,82.16,Pay-at-pump,0,ANPR,1,Yes,Unresolved
+ST1088,6/19/2006,Self-service,Christchurch,95,37,107.59,Post-pay,0,CCTV,0,Yes,Pending
+ST1089,11-10-05,Unmanned,Dunedin,91,24,69.53,Pre-pay,0,Pre-pay Policy,1,Yes,Pending
+ST1090,10/22/2009,Unmanned,Dunedin,95,64,197.51,Post-pay,0,ANPR,0,No,Pending
+ST1091,10-10-06,Unmanned,Christchurch,Diesel,62,180.91,Pre-pay,0,None,1,No,Pending
+ST1092,2/15/2007,Unmanned,Hamilton,95,67,199.27,Post-pay,0,ANPR,0,Yes,Pending
+ST1093,6/18/2007,Staffed,Christchurch,95,38,102.69,Post-pay,0,ANPR,0,Yes,Unresolved
+ST1094,6/19/2008,Unmanned,Hamilton,Diesel,44,120.26,Post-pay,0,ANPR,0,No,Pending
+ST1095,10/17/2008,Unmanned,Dunedin,95,20,56.75,Post-pay,0,CCTV,0,Yes,Pending
+ST1096,2/23/2009,Unmanned,Christchurch,91,73,201.85,Post-pay,0,CCTV,1,Yes,Recovered
+ST1097,6/24/2009,Staffed,Wellington,95,64,195.83,Pay-at-pump,0,None,0,Yes,Unresolved
+ST1098,6/15/2006,Unmanned,Auckland,95,61,188.07,Post-pay,0,CCTV,0,Yes,Pending
+ST1099,01-06-10,Unmanned,Dunedin,Diesel,58,167.96,Post-pay,0,CCTV,0,Yes,Unresolved
+ST1100,03-06-11,Staffed,Auckland,91,35,108.12,Pay-at-pump,0,ANPR,0,Yes,Unresolved
+ST1101,03-10-11,Staffed,Dunedin,Diesel,71,219.93,Post-pay,0,ANPR,1,Yes,Pending
+ST1102,5/25/2012,Staffed,Wellington,91,31,88.14,Post-pay,0,ANPR,0,Yes,Unresolved
+ST1103,9/25/2012,Unmanned,Hamilton,Diesel,73,220.81,Pay-at-pump,0,CCTV,0,Yes,Unresolved
+ST1104,10/16/2007,Staffed,Dunedin,Diesel,79,243.72,Pre-pay,1,CCTV,0,No,Unresolved
+ST1105,2/20/2008,Staffed,Hamilton,Diesel,34,104.66,Post-pay,0,None,0,Yes,Pending
+ST1106,03-02-11,Unmanned,Auckland,91,35,100.03,Pay-at-pump,0,ANPR,0,Yes,Pending
+ST1107,9/28/2010,Staffed,Wellington,Diesel,46,138.68,Post-pay,0,Pre-pay Policy,0,No,Pending
+ST1108,06-10-05,Unmanned,Auckland,91,75,215.92,Post-pay,0,None,0,Yes,Pending
+ST1109,2/16/2006,Self-service,Hamilton,91,62,180.01,Pre-pay,0,None,0,Yes,Unresolved
+ST1110,2/13/2015,Staffed,Dunedin,95,42,129.99,Pay-at-pump,0,CCTV,1,No,Unresolved
+ST1111,09-02-17,Self-service,Dunedin,Diesel,53,160.65,Post-pay,0,CCTV,0,Yes,Recovered
+ST1112,06-06-17,Unmanned,Dunedin,95,25,70.22,Pay-at-pump,0,CCTV,1,Yes,Recovered
+ST1113,11-10-17,Staffed,Wellington,91,26,71.27,Post-pay,0,CCTV,0,No,Unresolved
+ST1114,09-02-18,Unmanned,Hamilton,91,39,111.71,Post-pay,0,ANPR,0,Yes,Recovered
+ST1115,04-06-18,Self-service,Wellington,95,20,58.36,Post-pay,0,Pre-pay Policy,1,Yes,Recovered
+ST1116,11-10-18,Unmanned,Dunedin,95,61,171.89,Post-pay,0,ANPR,0,Yes,Recovered
+ST1117,08-06-15,Staffed,Auckland,95,62,191.78,Pre-pay,0,None,1,No,Unresolved
+ST1118,12-02-16,Staffed,Dunedin,Diesel,37,100.56,Post-pay,0,None,0,No,Pending
+ST1119,06-06-16,Self-service,Dunedin,91,26,77.48,Post-pay,0,Pre-pay Policy,1,No,Recovered
+ST1120,12-10-16,Unmanned,Christchurch,95,32,97.06,Post-pay,0,CCTV,1,No,Recovered
+ST1121,2/13/2019,Staffed,Wellington,Diesel,64,180.15,Pre-pay,0,CCTV,1,Yes,Recovered
+ST1122,6/17/2019,Self-service,Wellington,Diesel,36,108.43,Pay-at-pump,0,CCTV,0,No,Unresolved
+ST1123,08-10-15,Staffed,Dunedin,91,78,231.94,Pay-at-pump,0,None,0,Yes,Recovered
+ST1124,12-05-15,Staffed,Hamilton,95,25,74.66,Pay-at-pump,1,ANPR,0,No,Recovered
+ST1125,07-09-15,Unmanned,Christchurch,95,32,97.22,Pre-pay,1,ANPR,0,No,Unresolved
+ST1126,1/18/2016,Staffed,Christchurch,91,58,167.38,Post-pay,0,CCTV,1,Yes,Recovered
+ST1127,1/18/2016,Unmanned,Wellington,Diesel,29,80.12,Pre-pay,0,CCTV,1,Yes,Recovered
+ST1128,09-05-17,Staffed,Wellington,95,25,68.12,Pay-at-pump,0,CCTV,1,Yes,Pending
+ST1129,09-05-17,Self-service,Auckland,95,45,132.6,Post-pay,0,ANPR,0,Yes,Unresolved
+ST1130,08-09-17,Staffed,Auckland,91,63,171.48,Pre-pay,0,CCTV,0,No,Pending
+ST1131,1/16/2018,Unmanned,Christchurch,95,67,196.72,Pay-at-pump,0,Pre-pay Policy,1,Yes,Pending
+ST1132,09-05-18,Unmanned,Hamilton,Diesel,69,212.54,Pre-pay,1,None,1,Yes,Unresolved
+ST1133,5/14/2012,Self-service,Wellington,Diesel,48,138.31,Pre-pay,0,ANPR,1,Yes,Recovered
+ST1134,5/14/2012,Staffed,Hamilton,91,39,118.6,Pay-at-pump,0,Pre-pay Policy,1,Yes,Recovered
+ST1135,5/13/2014,Staffed,Christchurch,Diesel,60,170.64,Pre-pay,0,ANPR,1,Yes,Recovered
+ST1136,5/13/2014,Self-service,Wellington,95,76,229.43,Post-pay,0,Pre-pay Policy,0,Yes,Recovered
+ST1137,5/14/2019,Staffed,Hamilton,95,65,186.01,Pre-pay,0,Pre-pay Policy,1,Yes,Recovered
+ST1138,07-09-15,Staffed,Hamilton,91,50,137.66,Pre-pay,1,CCTV,1,No,Pending
+ST1139,5/17/2010,Unmanned,Auckland,Diesel,42,122.79,Pay-at-pump,0,ANPR,0,Yes,Recovered
+ST1140,1/19/2010,Staffed,Christchurch,91,41,116.31,Post-pay,0,Pre-pay Policy,1,Yes,Pending
+ST1141,11-09-14,Staffed,Wellington,Diesel,53,148.53,Pre-pay,1,ANPR,0,Yes,Recovered
+ST1142,1/19/2010,Self-service,Dunedin,95,28,80.08,Post-pay,0,CCTV,0,Yes,Pending
+ST1143,1/27/2009,Self-service,Wellington,Diesel,75,228.78,Post-pay,0,None,0,Yes,Unresolved
+ST1144,1/27/2009,Unmanned,Hamilton,95,34,103.4,Post-pay,0,ANPR,0,No,Recovered
+ST1145,9/17/2008,Staffed,Wellington,Diesel,51,147.63,Post-pay,0,Pre-pay Policy,0,Yes,Unresolved
+ST1146,5/23/2008,Staffed,Dunedin,95,61,184.89,Pay-at-pump,0,ANPR,0,Yes,Recovered
+ST1147,1/25/2008,Staffed,Christchurch,91,30,86.36,Post-pay,0,None,1,Yes,Pending
+ST1148,9/14/2007,Unmanned,Auckland,91,30,81.36,Pre-pay,0,CCTV,1,Yes,Unresolved
+ST1149,1/17/2007,Unmanned,Hamilton,Diesel,77,225.59,Post-pay,0,ANPR,1,Yes,Unresolved
+ST1150,9/13/2006,Self-service,Wellington,Diesel,68,187.35,Post-pay,0,ANPR,0,Yes,Recovered
+ST1151,5/17/2010,Unmanned,Christchurch,95,37,107.5,Pre-pay,0,ANPR,0,Yes,Pending
+ST1152,12-05-15,Staffed,Auckland,95,67,188.75,Pay-at-pump,0,ANPR,1,Yes,Unresolved
+ST1153,9/14/2010,Staffed,Wellington,Diesel,45,122.04,Post-pay,0,CCTV,1,Yes,Pending
+ST1154,9/14/2010,Unmanned,Auckland,95,62,187.89,Pre-pay,0,ANPR,1,Yes,Unresolved
+ST1155,5/19/2011,Staffed,Auckland,Diesel,62,184.27,Post-pay,0,None,1,Yes,Unresolved
+ST1156,5/19/2011,Staffed,Auckland,Diesel,23,64.63,Pre-pay,1,ANPR,0,Yes,Unresolved
+ST1157,9/16/2011,Unmanned,Wellington,Diesel,51,154.58,Pay-at-pump,0,ANPR,0,Yes,Unresolved
+ST1158,1/18/2012,Unmanned,Auckland,Diesel,77,226.35,Pay-at-pump,0,CCTV,0,Yes,Unresolved
+ST1159,1/18/2012,Staffed,Dunedin,Diesel,48,141.82,Pre-pay,1,CCTV,0,No,Pending
+ST1160,1/16/2013,Staffed,Hamilton,91,58,169.27,Pre-pay,0,ANPR,0,Yes,Recovered
+ST1161,1/19/2015,Staffed,Auckland,Diesel,23,68.45,Post-pay,1,Pre-pay Policy,1,Yes,Recovered
+ST1162,1/16/2013,Self-service,Hamilton,91,28,86.6,Pre-pay,0,Pre-pay Policy,1,Yes,Recovered
+ST1163,5/14/2013,Self-service,Dunedin,91,30,90.91,Post-pay,0,Pre-pay Policy,0,Yes,Pending
+ST1164,5/14/2013,Self-service,Wellington,91,49,137.43,Post-pay,0,None,0,Yes,Pending
+ST1165,11-09-13,Unmanned,Wellington,Diesel,51,141.76,Post-pay,0,CCTV,0,Yes,Recovered
+ST1166,11-09-13,Self-service,Auckland,Diesel,55,169.73,Pre-pay,0,CCTV,1,Yes,Recovered
+ST1167,1/16/2014,Unmanned,Wellington,95,53,152.59,Pre-pay,0,None,1,Yes,Pending
+ST1168,1/16/2014,Unmanned,Christchurch,91,43,124.59,Post-pay,0,CCTV,0,Yes,Recovered
+ST1169,11-09-14,Self-service,Christchurch,91,51,139.67,Pay-at-pump,0,None,0,Yes,Recovered
+ST1170,1/19/2015,Self-service,Christchurch,Diesel,39,106.64,Pre-pay,0,ANPR,0,No,Unresolved
+ST1171,9/16/2011,Self-service,Auckland,95,79,219.42,Pre-pay,0,Pre-pay Policy,0,Yes,Pending
+ST1172,11/25/2013,Staffed,Dunedin,91,39,118.46,Pre-pay,0,ANPR,0,Yes,Pending
+ST1173,3/16/2017,Self-service,Wellington,Diesel,25,72.15,Pre-pay,0,Pre-pay Policy,0,Yes,Pending
+ST1174,7/19/2016,Staffed,Christchurch,95,26,72.93,Pay-at-pump,0,CCTV,0,No,Recovered
+ST1175,3/18/2016,Unmanned,Christchurch,95,48,134.28,Post-pay,0,CCTV,0,Yes,Recovered
+ST1176,3/18/2016,Staffed,Auckland,91,48,129.99,Post-pay,0,Pre-pay Policy,0,Yes,Unresolved
+ST1177,7/17/2014,Self-service,Christchurch,95,33,100.55,Post-pay,0,ANPR,0,Yes,Recovered
+ST1178,3/25/2013,Unmanned,Auckland,Diesel,43,128.67,Post-pay,0,ANPR,0,No,Unresolved
+ST1179,11/23/2012,Unmanned,Wellington,Diesel,31,89.63,Pre-pay,0,CCTV,0,No,Pending
+ST1180,11/23/2012,Unmanned,Dunedin,91,77,230.76,Pay-at-pump,0,Pre-pay Policy,0,No,Pending
+ST1181,7/19/2016,Staffed,Wellington,95,54,164.81,Pay-at-pump,0,CCTV,0,Yes,Unresolved
+ST1182,11/18/2015,Self-service,Dunedin,95,59,171.04,Post-pay,0,CCTV,0,Yes,Unresolved
+ST1183,11/18/2015,Unmanned,Wellington,Diesel,60,168.77,Post-pay,0,None,0,No,Pending
+ST1184,7/17/2017,Unmanned,Hamilton,91,34,102.66,Post-pay,1,ANPR,0,No,Unresolved
+ST1185,7/13/2015,Unmanned,Wellington,95,68,201.78,Post-pay,0,CCTV,1,No,Recovered
+ST1186,3/23/2015,Staffed,Wellington,95,64,196.64,Pay-at-pump,0,ANPR,1,No,Unresolved
+ST1187,3/23/2015,Staffed,Dunedin,95,79,240.3,Pay-at-pump,0,CCTV,1,No,Unresolved
+ST1188,11/21/2014,Self-service,Hamilton,Diesel,59,178.23,Pay-at-pump,0,Pre-pay Policy,0,Yes,Pending
+ST1189,11/21/2014,Staffed,Christchurch,95,76,223.1,Pay-at-pump,0,ANPR,0,Yes,Pending
+ST1190,7/17/2014,Unmanned,Hamilton,Diesel,50,153.55,Pre-pay,0,None,0,Yes,Unresolved
+ST1191,3/21/2014,Self-service,Dunedin,91,22,67.73,Pay-at-pump,1,CCTV,1,Yes,Pending
+ST1192,3/21/2014,Unmanned,Auckland,95,29,79.36,Pre-pay,0,None,0,Yes,Pending
+ST1193,11/25/2013,Unmanned,Christchurch,95,30,81.64,Post-pay,0,None,0,Yes,Pending
+ST1194,7/16/2013,Staffed,Auckland,95,42,124.63,Pay-at-pump,0,None,1,No,Unresolved
+ST1195,7/16/2013,Self-service,Dunedin,91,37,104.13,Post-pay,0,ANPR,1,Yes,Recovered
+ST1196,3/25/2013,Staffed,Christchurch,Diesel,75,228.59,Pre-pay,0,CCTV,0,Yes,Unresolved
+ST1197,7/13/2015,Staffed,Hamilton,91,42,127.16,Pre-pay,0,CCTV,0,No,Unresolved
+ST1198,7/17/2017,Self-service,Hamilton,Diesel,46,129.54,Post-pay,1,CCTV,1,Yes,Pending
+ST1199,3/16/2017,Unmanned,Dunedin,95,67,193.72,Pay-at-pump,0,ANPR,0,Yes,Unresolved
+ST1200,3/18/2019,Unmanned,Christchurch,Diesel,68,197.1,Pay-at-pump,0,Pre-pay Policy,1,Yes,Unresolved
+ST1201,3/18/2019,Self-service,Hamilton,95,58,167.48,Pre-pay,0,None,0,Yes,Unresolved
+ST1202,3/15/2018,Unmanned,Christchurch,95,30,91.05,Pay-at-pump,0,None,0,Yes,Recovered
+ST1203,7/19/2019,Self-service,Dunedin,95,21,62.18,Pay-at-pump,0,None,0,No,Unresolved
+ST1204,7/19/2019,Self-service,Christchurch,91,52,158.07,Post-pay,1,None,1,Yes,Unresolved
+ST1205,11/16/2018,Staffed,Wellington,91,41,112,Post-pay,0,CCTV,1,Yes,Pending
+ST1206,11/16/2018,Self-service,Dunedin,91,46,135.32,Pay-at-pump,0,Pre-pay Policy,1,Yes,Pending
+ST1207,11-07-18,Staffed,Christchurch,Diesel,79,229.79,Pay-at-pump,1,CCTV,0,Yes,Unresolved
+ST1208,11-07-18,Unmanned,Dunedin,Diesel,23,66.51,Pay-at-pump,0,ANPR,0,Yes,Recovered
+ST1209,3/15/2018,Unmanned,Wellington,91,45,132.96,Pre-pay,0,None,0,Yes,Recovered
+ST1210,11/16/2017,Unmanned,Hamilton,95,67,182.62,Pre-pay,0,None,0,No,Pending
+ST1211,11/16/2017,Unmanned,Christchurch,Diesel,47,134.05,Pre-pay,0,None,1,No,Pending
+ST1212,8/16/2019,Staffed,Christchurch,91,38,112.6,Pay-at-pump,0,None,1,Yes,Unresolved
+ST1213,12-04-16,Unmanned,Hamilton,Diesel,31,85.73,Pre-pay,0,Pre-pay Policy,1,Yes,Pending
+ST1214,11-04-17,Self-service,Dunedin,95,25,71.93,Pay-at-pump,0,CCTV,0,Yes,Pending
+ST1215,11-04-17,Self-service,Dunedin,91,35,102.2,Pay-at-pump,0,CCTV,0,Yes,Pending
+ST1216,12/14/2016,Self-service,Auckland,91,22,64.01,Pay-at-pump,0,None,1,No,Recovered
+ST1217,10-08-15,Staffed,Dunedin,91,57,175.85,Pre-pay,0,CCTV,0,Yes,Unresolved
+ST1218,10-08-15,Unmanned,Hamilton,91,68,196.92,Post-pay,0,None,0,Yes,Unresolved
+ST1219,4/15/2015,Unmanned,Hamilton,Diesel,36,108.02,Pre-pay,0,ANPR,0,No,Unresolved
+ST1220,4/15/2015,Unmanned,Wellington,95,31,84.98,Post-pay,0,CCTV,1,Yes,Recovered
+ST1221,12/16/2014,Staffed,Dunedin,Diesel,59,178.44,Post-pay,0,Pre-pay Policy,1,Yes,Unresolved
+ST1222,12/16/2014,Self-service,Hamilton,95,66,184.26,Pay-at-pump,1,CCTV,1,Yes,Recovered
+ST1223,8/18/2014,Self-service,Wellington,91,23,67.99,Post-pay,0,CCTV,0,Yes,Pending
+ST1224,8/18/2014,Unmanned,Auckland,95,54,152.18,Pre-pay,0,None,1,Yes,Pending
+ST1225,4/16/2014,Self-service,Auckland,Diesel,46,126.12,Post-pay,0,ANPR,0,Yes,Unresolved
+ST1226,4/16/2014,Self-service,Wellington,Diesel,52,153.96,Post-pay,0,ANPR,0,Yes,Unresolved
+ST1227,12/18/2013,Staffed,Hamilton,Diesel,44,133.23,Pre-pay,0,None,0,Yes,Unresolved
+ST1228,12/18/2013,Staffed,Wellington,95,71,219.15,Pre-pay,0,ANPR,0,No,Pending
+ST1229,12/14/2016,Staffed,Wellington,91,76,211.16,Pay-at-pump,0,None,0,No,Unresolved
+ST1230,10-08-17,Staffed,Dunedin,95,65,191.28,Pre-pay,1,None,0,Yes,Pending
+ST1231,12/13/2017,Unmanned,Dunedin,91,59,181.18,Post-pay,0,None,0,Yes,Recovered
+ST1232,12/13/2017,Staffed,Wellington,Diesel,31,88.66,Post-pay,0,CCTV,1,No,Recovered
+ST1233,07-08-18,Self-service,Christchurch,Diesel,79,221.61,Pre-pay,1,CCTV,0,Yes,Recovered
+ST1234,07-08-18,Unmanned,Auckland,95,42,125.01,Pre-pay,0,None,1,Yes,Unresolved
+ST1235,4/27/2006,Self-service,Dunedin,Diesel,48,147.79,Pre-pay,0,ANPR,0,No,Pending
+ST1236,8/23/2006,Self-service,Auckland,Diesel,74,209.7,Pre-pay,0,CCTV,0,Yes,Unresolved
+ST1237,12/20/2006,Self-service,Hamilton,95,35,104.38,Pre-pay,0,Pre-pay Policy,0,Yes,Unresolved
+ST1238,12/20/2006,Staffed,Hamilton,95,79,242.17,Pre-pay,0,None,0,No,Pending
+ST1239,4/26/2007,Staffed,Auckland,91,28,82.57,Post-pay,0,CCTV,1,Yes,Unresolved
+ST1240,10-08-17,Unmanned,Auckland,Diesel,68,195.16,Post-pay,0,CCTV,0,Yes,Pending
+ST1241,12-04-16,Unmanned,Hamilton,Diesel,57,156.7,Post-pay,0,None,1,Yes,Recovered
+ST1242,12-04-19,Staffed,Christchurch,Diesel,23,65.23,Pre-pay,0,ANPR,1,No,Recovered
+ST1243,8/15/2013,Self-service,Christchurch,95,78,235.83,Pre-pay,0,ANPR,1,No,Unresolved
+ST1244,12/17/2018,Unmanned,Wellington,95,77,217.94,Pre-pay,0,CCTV,0,Yes,Pending
+ST1245,12/17/2018,Staffed,Dunedin,91,26,76.11,Pre-pay,0,CCTV,1,Yes,Pending
+ST1246,11-04-18,Staffed,Christchurch,Diesel,23,63.55,Post-pay,0,Pre-pay Policy,0,Yes,Recovered
+ST1247,11-04-18,Staffed,Auckland,95,31,91.89,Pay-at-pump,0,None,1,Yes,Recovered
+ST1248,8/16/2019,Self-service,Hamilton,95,30,81.35,Pay-at-pump,0,None,0,Yes,Recovered
+ST1249,12-04-19,Staffed,Dunedin,Diesel,32,93.36,Pay-at-pump,0,ANPR,1,Yes,Recovered
+ST1250,8/15/2013,Staffed,Auckland,Diesel,33,94.23,Post-pay,0,None,1,Yes,Recovered
+ST1251,12/15/2008,Staffed,Auckland,Diesel,45,132.61,Pre-pay,0,None,0,Yes,Pending
+ST1252,12/18/2012,Staffed,Christchurch,91,72,214.17,Post-pay,0,Pre-pay Policy,0,Yes,Pending
+ST1253,10-08-10,Unmanned,Christchurch,Diesel,58,166.17,Post-pay,0,None,1,No,Unresolved
+ST1254,10-08-10,Unmanned,Dunedin,91,35,97.6,Pay-at-pump,0,CCTV,1,No,Pending
+ST1255,4/16/2010,Staffed,Wellington,Diesel,39,107.29,Pre-pay,0,ANPR,1,No,Unresolved
+ST1256,4/16/2010,Self-service,Christchurch,95,35,98.05,Pre-pay,0,CCTV,0,Yes,Pending
+ST1257,12/16/2009,Unmanned,Dunedin,Diesel,50,149.66,Pre-pay,0,None,0,Yes,Recovered
+ST1258,12/16/2009,Staffed,Dunedin,Diesel,37,100.46,Post-pay,0,Pre-pay Policy,0,Yes,Pending
+ST1259,8/14/2009,Unmanned,Hamilton,95,73,223.22,Pre-pay,0,CCTV,1,Yes,Recovered
+ST1260,8/14/2009,Unmanned,Auckland,95,44,135.69,Post-pay,0,CCTV,1,Yes,Pending
+ST1261,4/20/2009,Self-service,Wellington,95,46,136.71,Post-pay,0,None,0,No,Pending
+ST1262,12-08-16,Staffed,Christchurch,Diesel,45,130.17,Pre-pay,0,Pre-pay Policy,0,Yes,Pending
+ST1263,12/25/2007,Staffed,Hamilton,Diesel,37,102.82,Pay-at-pump,0,Pre-pay Policy,0,No,Recovered
+ST1264,12/25/2007,Self-service,Hamilton,91,39,113.94,Pre-pay,0,CCTV,0,Yes,Unresolved
+ST1265,4/17/2008,Self-service,Wellington,91,20,56.62,Pre-pay,0,None,0,Yes,Pending
+ST1266,4/17/2008,Staffed,Wellington,91,59,178.83,Pay-at-pump,0,CCTV,1,Yes,Unresolved
+ST1267,8/14/2008,Staffed,Hamilton,Diesel,72,211.39,Pay-at-pump,1,CCTV,0,Yes,Pending
+ST1268,4/20/2009,Self-service,Wellington,91,62,183.84,Pay-at-pump,0,ANPR,0,Yes,Pending
+ST1269,12/15/2008,Unmanned,Christchurch,91,62,191.21,Pre-pay,0,None,1,Yes,Pending
+ST1270,4/17/2013,Unmanned,Dunedin,Diesel,28,80.37,Post-pay,0,Pre-pay Policy,1,Yes,Recovered
+ST1271,12/16/2010,Self-service,Hamilton,Diesel,24,64.81,Pre-pay,0,Pre-pay Policy,1,Yes,Unresolved
+ST1272,12/16/2010,Unmanned,Hamilton,Diesel,75,217.43,Pre-pay,1,Pre-pay Policy,0,No,Unresolved
+ST1273,4/14/2011,Self-service,Auckland,Diesel,40,122.53,Post-pay,1,ANPR,1,No,Pending
+ST1274,12/18/2012,Unmanned,Christchurch,95,59,177.09,Pay-at-pump,0,None,0,No,Recovered
+ST1275,4/17/2013,Unmanned,Hamilton,Diesel,41,118.64,Pay-at-pump,0,ANPR,0,Yes,Unresolved
+ST1276,10-08-12,Staffed,Auckland,91,54,152.24,Pay-at-pump,0,ANPR,0,Yes,Recovered
+ST1277,10-08-12,Staffed,Hamilton,Diesel,20,61.42,Pre-pay,0,CCTV,1,No,Recovered
+ST1278,4/16/2012,Unmanned,Wellington,95,54,161.74,Pay-at-pump,0,ANPR,0,No,Unresolved
+ST1279,4/16/2012,Unmanned,Hamilton,91,32,94.16,Pre-pay,0,ANPR,0,Yes,Unresolved
+ST1280,4/14/2011,Staffed,Auckland,95,32,91.54,Pay-at-pump,0,CCTV,1,Yes,Pending
+ST1281,09-12-11,Staffed,Dunedin,Diesel,79,243.25,Pre-pay,0,None,0,Yes,Unresolved
+ST1282,12-08-16,Staffed,Auckland,91,61,166.7,Post-pay,0,CCTV,0,No,Pending
+ST1283,8/23/2007,Self-service,Christchurch,91,32,90.44,Post-pay,0,CCTV,0,Yes,Recovered
+ST1284,8/23/2007,Unmanned,Dunedin,91,59,176.81,Pay-at-pump,0,CCTV,0,Yes,Recovered
+ST1285,8/14/2008,Staffed,Hamilton,91,79,223.35,Pay-at-pump,1,CCTV,0,No,Pending
+ST1286,09-12-11,Unmanned,Dunedin,95,50,140.37,Pre-pay,0,ANPR,1,Yes,Unresolved
+ST1287,09-08-11,Self-service,Hamilton,95,71,205.12,Pay-at-pump,0,CCTV,0,No,Pending
+ST1288,09-08-11,Self-service,Dunedin,91,22,61.28,Post-pay,1,ANPR,0,Yes,Unresolved
+ST1289,4/26/2007,Staffed,Hamilton,95,75,223.91,Pre-pay,0,CCTV,0,Yes,Recovered
+ST1290,7/26/2007,Self-service,Christchurch,Diesel,79,227,Post-pay,0,CCTV,0,Yes,Recovered
+ST1291,3/28/2007,Unmanned,Auckland,Diesel,44,120.93,Post-pay,0,Pre-pay Policy,1,Yes,Recovered
+ST1292,6/24/2014,Staffed,Wellington,Diesel,68,188.45,Post-pay,0,None,0,No,Unresolved
+ST1293,2/26/2014,Unmanned,Wellington,91,63,171.24,Post-pay,0,ANPR,0,Yes,Pending
+ST1294,06-03-13,Unmanned,Wellington,91,21,64.14,Pre-pay,0,ANPR,1,Yes,Pending
+ST1295,6/27/2012,Self-service,Christchurch,Diesel,30,89.67,Pre-pay,0,ANPR,1,No,Recovered
+ST1296,01-11-12,Self-service,Dunedin,95,79,236.19,Pay-at-pump,0,CCTV,0,No,Unresolved
+ST1297,2/20/2007,Self-service,Auckland,95,41,115.34,Post-pay,0,ANPR,0,Yes,Unresolved
+ST1298,10/18/2006,Self-service,Auckland,Diesel,23,65.62,Pre-pay,0,None,1,Yes,Unresolved
+ST1299,6/21/2007,Self-service,Dunedin,Diesel,34,97.21,Pre-pay,0,Pre-pay Policy,0,Yes,Recovered
+ST1300,10/17/2008,Staffed,Dunedin,91,77,234.78,Pre-pay,0,CCTV,1,Yes,Unresolved
+ST1301,2/16/2009,Unmanned,Dunedin,91,31,83.85,Pay-at-pump,1,ANPR,1,Yes,Pending
+ST1302,6/17/2009,Unmanned,Dunedin,91,22,63.56,Pay-at-pump,1,CCTV,0,No,Pending
+ST1303,2/16/2009,Unmanned,Dunedin,95,70,190.48,Pay-at-pump,0,None,0,No,Pending
+ST1304,10/15/2009,Unmanned,Dunedin,95,40,123.12,Pay-at-pump,0,CCTV,0,No,Unresolved
+ST1305,10/15/2009,Self-service,Hamilton,91,61,180.38,Pay-at-pump,0,CCTV,1,Yes,Unresolved
+ST1306,2/16/2010,Unmanned,Dunedin,91,57,160.71,Pay-at-pump,0,None,0,No,Unresolved
+ST1307,2/16/2010,Staffed,Auckland,91,73,219.75,Post-pay,0,Pre-pay Policy,1,Yes,Unresolved
